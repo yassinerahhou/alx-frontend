@@ -48,5 +48,5 @@ html {
 }
 body {
   font-size: var(--font-size-medium);
-  min-height: var(--line-height-base);
+  line-height: var(--line-height-base);
 }
