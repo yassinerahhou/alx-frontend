@@ -404,6 +404,7 @@ template {
 }
 .section-footer {
   padding: var(--section-footer-align);
+  text-align: var(--section-footer-align);
 }
 
 .section-tagline,
