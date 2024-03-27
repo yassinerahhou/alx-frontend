@@ -405,9 +405,7 @@ template {
 .section-footer {
   padding: var(--section-footer-align);
 }
-footer {
-  padding: var(--footer-padding);
-}
+
 .section-tagline,
 .card-category {
   color: var(--color-primary);
@@ -476,4 +474,8 @@ a:hover {
 
 a:active {
   background-color: var(--color-light-grey);
+}
+
+footer {
+  padding: var(--footer-padding);
 }
