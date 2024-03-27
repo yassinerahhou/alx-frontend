@@ -436,7 +436,7 @@ a {
 }
 .container {
   width: 960px;
-  margin: 0;
+  margin: auto;
 }
 a:link {
   color: var(--text-color);
