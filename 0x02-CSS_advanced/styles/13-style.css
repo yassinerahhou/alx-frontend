@@ -76,6 +76,7 @@ a {
   text-transform: var(--section-tagline-transform);
   font-weight: var(--font-weight-bold);
 }
+/* Pseudo Classes */
 a:link {
   color: var(--text-color);
   text-decoration: none;
